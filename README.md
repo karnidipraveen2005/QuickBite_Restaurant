@@ -84,8 +84,8 @@ python app.py
 
 ---
 
-## **📸 Screenshots**  
-*(Add screenshots of login, menu, and order pages here for better visualization.)*  
+## 📽️ Demo Video  
+[![Watch the video](https://github.com/karnidipraveen2005/QuickBite_Restaurant/blob/main/dem.png)](https://github.com/karnidipraveen2005/QuickBite_Restaurant/blob/main/demo.mp4)
 
 ---
 
