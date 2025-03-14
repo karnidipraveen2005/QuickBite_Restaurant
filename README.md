@@ -85,8 +85,7 @@ python app.py
 ---
 
 ## 📽️ Demo Video  
-## 📽️ Demo Video  
-[![Watch the video](https://github.com/karnidipraveen2005/QuickBite_Restaurant/blob/main/dem.png)](https://github.com/karnidipraveen2005/QuickBite_Restaurant/raw/main/demo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/karnidipraveen2005/QuickBite_Restaurant/main/dem.png)](https://raw.githubusercontent.com/karnidipraveen2005/QuickBite_Restaurant/main/Demo.mp4)
 
 ---
 
